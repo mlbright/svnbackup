@@ -1,2 +1,18 @@
-second python version not tested significantly: would not use this in production ... yet.
-It will be sweet when complete.
+Disclaimer
+==========
+
+This script is provided under an MIT license. Use at your own risk. Read the code to find out 
+if it suits your needs.
+
+svn backup
+==========
+
+Script to backup your svn repositories to compressed files.
+
+Current state of affairs
+========================
+
+svn-backup.sh and svn-remote-backup.py work nicely, and have been used in production environments.
+
+second python version (svn-remote-backup2.py) is not tested significantly: 
+do not use this in production ... yet. It will be sweet when complete.
