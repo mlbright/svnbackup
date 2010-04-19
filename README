@@ -1,8 +1,12 @@
 Disclaimer
 ==========
 
-This script is provided under an MIT license. Use at your own risk. Read the code to find out 
-if it suits your needs.
+This script is provided under an MIT license. Use at your own risk. 
+Read the code to find out if it suits your needs.
+
+NOTE: work on this has completely halted, as new and better version control
+systems are fast gaining ground on subversion. I would rather spend
+time learning how to best use the new systems.
 
 svn backup
 ==========
